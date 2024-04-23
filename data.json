@@ -1,0 +1,17 @@
+{
+    "$employee": {
+        "employee_code": "127751"
+    },
+    "noor": {
+        "pin": 1111,
+        "balance": 22
+    },
+    "ibrahim": {
+        "pin": 1111,
+        "balance": -1495
+    },
+    "Zainab imadi": {
+        "pin": "2775",
+        "balance": 1998
+    }
+}
